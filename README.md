@@ -1,2 +1,18 @@
-# LoRa__Module__Code
-Here we write on LoRa sending/receiving code of given by different AI 
+//===========================================================================
+                        LoRa Connection with Arduino UNO
+//===========================================================================
+
+// this is ideal for all given code
+
+LoRa TX  →  Arduino D10
+
+LoRa RX  →  Arduino D11
+
+LoRa VCC →  Arduino 5V
+
+LoRa GND →  Arduino GND
+
+
+
+
+// everyone request it please connection like this not use any other Dgital pin , otherwisw it's Creat confusion for all team member

@@ -1,4 +1,0 @@
-vcc --->  5v
-GND ---> Gnd in Arduino
-AO  ---> Analog 0 pin
-DO  ---> Digital pin 2
